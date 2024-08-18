@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import './Sidebar.css'
-import { assets } from '../../assets/assets'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPlus, faBars, faMessage } from "@fortawesome/free-solid-svg-icons";
 import { faCircleQuestion, faClockRotateLeft, faGear } from "@fortawesome/free-solid-svg-icons";
